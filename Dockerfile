@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER Jeremie Lesage <jeremie.lesage@gmail.com>
+MAINTAINER Maksim Karpychev <kodermax@gmail.com>
 
 
 ENV LIBREOFFICE_VERSION="5.2.7" \
